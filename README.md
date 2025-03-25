@@ -64,3 +64,4 @@ Once all dependencies are installed and the model is downloaded, simply run:
 python AIVoiceAgent.py
 ```
 # ai_assistant_with_self_learning
+# ai_assistant_project
