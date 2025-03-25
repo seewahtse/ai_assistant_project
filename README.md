@@ -63,3 +63,4 @@ Once all dependencies are installed and the model is downloaded, simply run:
 ```bash
 python AIVoiceAgent.py
 ```
+# ai_assistant_with_self_learning
