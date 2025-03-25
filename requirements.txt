@@ -1,0 +1,5 @@
+requirements.txt
+
+assemblyai[extras]
+ollama
+elevenlabs 
