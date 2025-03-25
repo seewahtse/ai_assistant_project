@@ -1,0 +1,5 @@
+2025-03-25 15:50:20 - user: Hello? You can't.
+2025-03-25 15:50:32 - assistant: Why not?
+2025-03-25 15:50:40 - user: What's my name?
+2025-03-25 15:50:44 - assistant: Your name is John.
+2025-03-25 15:50:51 - user: Me. How old am I?
