@@ -1,2 +1,7 @@
-assembly_ai_key="32c0e50a7e584d85a993bce67bba7d9d"
-eleven_labs_key="sk_bcad02d914b49f8f2d82b6e0ba9526738454d05f15a2118a"
+import json
+
+with open('config.json') as config_file:
+    config = json.load(config_file)
+
+assembly_ai_key = config['assembly_ai_key']
+eleven_labs_key = config['eleven_labs_key']
